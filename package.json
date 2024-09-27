@@ -1,6 +1,6 @@
 {
   "name": "work-log-template",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "working log template",
   "main": "index.js",
   "scripts": {
