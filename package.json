@@ -1,0 +1,13 @@
+{
+  "name": "work-log-template",
+  "version": "0.0.0",
+  "description": "working log template",
+  "main": "index.js",
+  "scripts": {
+    "log": "sh log.sh",
+    "publish": "sh publish.sh",
+    "update": "sh update.sh"
+  },
+  "author": "",
+  "license": "ISC"
+}
