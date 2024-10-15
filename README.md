@@ -2,9 +2,18 @@
 
 ### Command Instructions
 
-1. `npm run log`: Update daily log
-2. `npm run publish`: Publish a new version
-3. `npm run update`: Merge updates into `main` (run on the `develop` branch)
+**Update daily log**
+```bash
+npm run log
+```
+**Publish a new version**
+```bash
+npm run publish
+```
+**Merge updates into `main` (run on the `develop` branch)**
+```bash
+npm run update
+```
 
 ### Git Flow
 
