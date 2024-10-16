@@ -6,9 +6,9 @@
 ```bash
 npm run log
 ```
-**Publish a new version**
+**Release a new version**
 ```bash
-npm run publish
+npm run release
 ```
 **Merge updates into `main` (run on the `develop` branch)**
 ```bash
